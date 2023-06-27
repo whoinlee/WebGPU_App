@@ -1,1 +1,1 @@
-# webGPU_App
+# WebGPU_App
