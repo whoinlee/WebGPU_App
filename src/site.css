@@ -10,6 +10,7 @@
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: 35px;
  }
+
  .item1 {
     grid-column: 1/3;
  }
